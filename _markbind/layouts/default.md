@@ -17,7 +17,8 @@
       <li><a href="{{ url_ip_dashboard }}" target="_blank" class="dropdown-item"><md>:fas-chart-area: iP Code</md></a></li>
     </dropdown>
     <dropdown tags="m--cs2103 m--cs2113 m--tic4001 m--tic4002" header="**tP dashboards**" class="nav-link">
-      <li><a href="{{baseUrl}}/contents/tp-progress.html" class="dropdown-item"><md>:fas-tasks: tP progress</md></a></li>
+      <li><a href="{{baseUrl}}/contents/tp-progress.html" class="dropdown-item"><md>:fas-tasks: tP progress (individual)</md></a></li>
+      <li><a href="{{baseUrl}}/contents/tp-progress-team.html" class="dropdown-item"><md>:fas-tasks: tP progress (team)</md></a></li>
       <li><a href="{{baseUrl}}/contents/tp-comments.html" class="dropdown-item"><md>tP comments</md></a></li>
       <li><a href="{{ url_tp_dashboard }}" target="_blank" class="dropdown-item"><md>:fas-chart-area: tP Code</md></a></li>
     </dropdown>
